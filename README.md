@@ -1,4 +1,4 @@
-# TP1 — Prompt Engineering for Multi-Agent Systems
+# Analyse de sentiment financier par prompt engineering
 
 Ce notebook couvre les bases du prompt engineering appliqué aux systèmes multi-agents, en utilisant plusieurs LLMs (OpenAI, Ollama, Groq) via LangChain.
 
